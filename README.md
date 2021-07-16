@@ -2,7 +2,7 @@ This is the first project from The Odin Project curriculum. The objective is to 
 
 Skills demonstrated:
 - Using Developer Tools to gather information about a web page.
-- Create an html document
-- Apply CSS to an html document
-- Use Git to save my work to Github
+- Create an html document.
+- Apply CSS to an html document.
+- Use Git to save my work to Github.
 - (more to come after completing the project...)
