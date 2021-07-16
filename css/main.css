@@ -1,13 +1,46 @@
-#GoogleLogo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#GoogleLogoDiv {
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    height: 300px;
+  }
+
+#SearchFormDiv {
+    text-align: center;
+}  
+
+#Navbarlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+#Navbar {
+    margin-top: 20px;
 }
 
-#SearchField {
-    text-align: center;
+ul {
+    border: 10px;
 }
 
-#SearchButtons {
-    text-align: center;
+li {
+    display: inline;
+}
+
+li a {
+    font-size: 0.85em;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+
+.NavBarLeft {
+    font-size: 1em;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+
+#GoogleAccountIcon {
+    border-radius: 25px;
 }
