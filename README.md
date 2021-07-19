@@ -2,6 +2,8 @@ This is the first project from The Odin Project curriculum. The objective is to 
 
 Note: I first built the webpage without using Developer Tools - this is all in the folder "no_dev_tools".
 
+Live Preview: https://jstan811.github.io/google-homepage/
+
 Skills demonstrated:
 - Create an html document.
 - Apply CSS to an html document.
