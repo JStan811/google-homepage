@@ -1,6 +1,6 @@
 This is the first project from The Odin Project curriculum. The objective is to deconstruct the Google Homepage using Developer Tools and rebuild it. This will be my first attempt as creating a web page.
 
-Note: I first built the webpage without using Developer Tools - this is all in the folder "no_dev_tools". Then I made some changes after viewing the original web page with Chrome's Developer Tools and saved that in the folder "with_dev_tools".
+Note: I first built the webpage without using Developer Tools - this is all in the folder "no_dev_tools".
 
 Skills demonstrated:
 - Create an html document.
