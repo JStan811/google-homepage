@@ -1,0 +1,106 @@
+body {
+    font-family: sans-serif;
+}
+
+#GoogleLogoDiv {
+    display: flex;
+    justify-content: center;
+    /* align-items:flex-end; */
+}
+
+#SearchFormDiv {
+    text-align: center;
+    /* position: absolute;
+    bottom: 0; */
+}  
+/* 
+#Navbarlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  } */
+
+/* #Navbar {
+    margin-top: 20px;
+} */
+
+nav {
+    background-color: lightpink;
+    position: relative;
+    height: 50px;
+    width: 100%;
+}
+
+/* main {
+    background-color: lightskyblue;
+    margin: auto;
+    width: 600px;
+} */
+
+main {
+    background-color: lightskyblue;
+    /* display: flex;
+    justify-content: center;
+    align-items: flex-end; */
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+/* ul {
+    border: 10px;
+} */
+
+li {
+    display: inline;
+}
+/* 
+li a {
+    font-size: 0.85em;
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+} */
+
+.NavBarLeft {
+    font-size: 0.9em;
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+    float: left;
+}
+
+.NavBarRight {
+    font-size: 0.8em;
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+    float: right;
+}
+
+
+#GoogleAccountIcon {
+    border-radius: 25px;
+}
+
+.button {
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 5px 4px; 
+}
+
+.text {
+    width: 525px;
+    height: 2.4em;
+    border-radius: 25px;
+    border-color: lightgray;
+    margin: 25px;
+    font-size: 1.05em;
+    padding-left: 45px;
+    background: url(../images/Icons/outline_search_black_24dp_small.png) no-repeat scroll 12px 10px;
+}
+
+input:focus {
+    outline:none;
+}
